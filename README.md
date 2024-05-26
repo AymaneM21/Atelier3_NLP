@@ -87,9 +87,9 @@ This lab provided a comprehensive understanding of NLP techniques and their appl
 
 ---
 
-**Université Abdelmalek Essaadi**
-Faculté des Sciences et Techniques de Tanger
-Département Génie Informatique
-Master : AISD
-NLP
-Pr . ELAACHAK LOTFI
+**Université Abdelmalek Essaadi** 
+- Faculté des Sciences et Techniques de Tanger
+- Département Génie Informatique
+- Master : AISD
+- NLP
+- Pr . ELAACHAK LOTFI
